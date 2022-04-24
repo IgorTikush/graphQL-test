@@ -29,6 +29,7 @@
     "@nestjs/mercurius": "^10.0.9",
     "@nestjs/platform-express": "^8.0.0",
     "apollo-server-express": "^3.6.7",
+    "dotenv": "^16.0.0",
     "graphql": "^16.3.0",
     "graphql-tools": "^8.2.8",
     "nano": "^10.0.0",

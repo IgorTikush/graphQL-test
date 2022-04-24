@@ -5,8 +5,8 @@
 type Author {
   _id: String!
   birthYear: Int!
+  books: [Book!]!
   country: String!
-  getBooks: [Book!]!
   name: String!
 }
 
@@ -22,4 +22,5 @@ type Query {
   getAllBooks(limit: Int!, skip: Int!): [Book!]!
   getAuthor(_id: String!): Author!
   getBook(_id: String!): Book!
+  getBookByName(name: String!): Book!
 }

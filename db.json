@@ -1,0 +1,834 @@
+[
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690057b0",
+    "_rev": "1-96b24c659a138e88c05b91e2560f9193",
+    "type": "author",
+    "name": "Steven King",
+    "birthYear": "1947",
+    "country": "USA"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69006b73",
+    "_rev": "2-672b863fe3a599c962590c6c28517f1f",
+    "type": "author",
+    "name": "George Orwell",
+    "birthYear": "1946",
+    "country": "USA"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6900784b",
+    "_rev": "2-6c23e3659fd3624772e6466ca03c4542",
+    "type": "author",
+    "name": "Ray Bradbury",
+    "birthYear": "1951",
+    "country": "USA"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69008566",
+    "_rev": "1-cd414cc5dd43966a94119466c9d271af",
+    "type": "author",
+    "name": "Lewis Carroll",
+    "birthYear": "1931",
+    "country": "USA"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "_rev": "2-6471a0a6eee2783df261e70d9110f255",
+    "type": "author",
+    "name": "Charles Dickens",
+    "birthYear": "1925",
+    "country": "USA"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6900aa67",
+    "_rev": "1-348e3f0af6ff9b33cd34caaf8c2f5442",
+    "type": "author",
+    "name": "Vladimir Nabokov",
+    "birthYear": "1921",
+    "country": "USSR"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "_rev": "2-e557809085e643d6565db1f2225c011a",
+    "type": "author",
+    "name": "Gabriel Garcia Marquez",
+    "birthYear": "1921",
+    "country": "Spain"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "_rev": "2-5f68bdae0ba9eec08dbf556b789bde19",
+    "type": "author",
+    "name": "F. Scott Fitzgerald",
+    "birthYear": "1890",
+    "country": "USA"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6900f4e6",
+    "_rev": "2-ce86b03dbfbcb3b47615fc6458307662",
+    "type": "author",
+    "name": "J.R.R. Tolkien",
+    "birthYear": "1917",
+    "country": "England"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69010077",
+    "_rev": "2-e086c34761efda5abd2ec96069a8862d",
+    "type": "author",
+    "name": "Haruki Murakami",
+    "birthYear": "1918",
+    "country": "Japan"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69011cad",
+    "_rev": "2-708c87d91e1286f617c5e32c1f777d9d",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "11-22-63: A Novel",
+    "year": "2010"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901292f",
+    "_rev": "2-7a2641cd1dafade90adc3404ea0be288",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "Billy Summers",
+    "year": "2021"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69012f55",
+    "_rev": "2-5ac3bb7b2be5eccd49985a6cb5bd611e",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "Just After Sunset: Stories",
+    "year": "2020"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69013116",
+    "_rev": "2-069df50f0bd7193c8b8e7be9efed0839",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "Nightmares & Dreamscapes, Volume I",
+    "year": "2019"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690132a7",
+    "_rev": "2-b0acdbb31025e4b1b5ca6d8c9bf113cd",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "Carrie",
+    "year": "2015"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690136a2",
+    "_rev": "2-73b0d7ee59a70ad08e9facaadf954b3c",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "The Long Walk",
+    "year": "2013"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901424b",
+    "_rev": "2-917bfa4fb63d969cca11e50417fbee5c",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "Later",
+    "year": "2010"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69015ea1",
+    "_rev": "2-38c095907b8ca8f47886df97f7953cda",
+    "author": "c342d78d41088b95a0fbbd4f690057b0",
+    "type": "book",
+    "name": "The Outsider",
+    "year": "2009"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690164d7",
+    "_rev": "2-5e909946988aabf5bc9bcb6ab9039b84",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "1984: New Classic Edition",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69016f07",
+    "_rev": "3-c0dc5db81f62cf510e24c7fc2ec3cb8c",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Politics and the English Language: And Other Essays",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69017726",
+    "_rev": "2-293e24fa63aca3c76cc4b2c242801c1e",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Animal Farm",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69018399",
+    "_rev": "2-fd7bb5c7873ba16f2b0c7287ebc074fc",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Politics and the English Language: And Other Essays",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901a0cd",
+    "_rev": "2-377976533e92a2044a50421adfbca1a1",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Homage to Catalonia",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901ae4a",
+    "_rev": "2-415ed3dc733d8f1890afa767bf646a9b",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Burmese Days: A Novel",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901b180",
+    "_rev": "2-ba299033d3b6db8edd454cca29c18a09",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Down and Out in Paris and London",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901bd53",
+    "_rev": "6-8f13b6886a90227dd293e30d539929ac",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "1984 (Spanish Edition)",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901de83",
+    "_rev": "3-e08424f97643f85c6487b4255c1ff3b3",
+    "author": "c342d78d41088b95a0fbbd4f69006b73",
+    "type": "book",
+    "name": "Summary, Review & Analysis: George Orwell's Animal Farm",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6901f52c",
+    "_rev": "3-0715a23d89b73c1d451b1b4ab59f6d7f",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "Bradbury Stories: 100 of His Most Celebrated Tales",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69020c61",
+    "_rev": "2-c80b58dce032af9cc411045ff0c503eb",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "Fahrenheit 451",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69021010",
+    "_rev": "2-eea1a866b125fe622870233c36c54937",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "The Martian Chronicles",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69021999",
+    "_rev": "2-76ddb5c45b480f9792d6c54da34ddce2",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "Dandelion Wine: A Novel (Grand Master Editions)",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69021d0c",
+    "_rev": "2-9f51b297233aea6943a771b7eb0135cb",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "Fahrenheit 451 -SparkNotes ((REV)07) by Bradbury, Ray [Paperback (2008)]",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69022982",
+    "_rev": "2-1b928c74f382d7b6fbc87c65f772a3eb",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "The Ray Bradbury Theater",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69022be5",
+    "_rev": "3-ccda25bba261bdbf5bcb96877023ab6a",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "The Day it Rained Forever",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69023ebd",
+    "_rev": "2-56a217d2fa6ed2ca9569f2faa9108763",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "THE WONDERFUL ICE CREAM (Icecream) SUIT: The Veldt; To the Chicago Abyss",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69024946",
+    "_rev": "2-f52b27ded716b253d6c99d0bfafa838f",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "Time Untamed: B50-781",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69024e9d",
+    "_rev": "2-e3a078e4d858916b28f863ef4968ed1a",
+    "author": "c342d78d41088b95a0fbbd4f6900784b",
+    "type": "book",
+    "name": "(Now and Forever) [By: Bradbury] [Aug, 2008]",
+    "year": "1967"
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69027536",
+    "_rev": "1-d5f92b315a38e3a56987b2aef4250f91",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Alice's Adventures in Wonderland: Unabridged, with Poems, Letters & Biography (Gothic Fantasy)",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69027c19",
+    "_rev": "1-95452ae3f790fb175c3c5cab744e0595",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Alice's Adventures in Wonderland",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902811b",
+    "_rev": "1-bb3a3ca9dbefa1c58464f557335ebe5d",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "The Hunting of the Snark an Agony, in Eight Fits",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902904a",
+    "_rev": "1-81e37a68f7209804ab142987e94b0c7f",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Lewis Carroll: A Biography",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69029946",
+    "_rev": "1-4b6f4f4d7f47af6f01188a6289d5c5b5",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Alice Through the Looking Glass",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69029a30",
+    "_rev": "1-f81919b6cbfe4dac3945f9f353334930",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Life Of Lewis Carroll",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69029f3e",
+    "_rev": "1-b4cccf8f9def77b5a18950149a8b6762",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Alice in Wonderland",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902ad5e",
+    "_rev": "1-636170ec59737526103ce93b161c2a6a",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "Jabberwocky and Other Nonsens",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902b159",
+    "_rev": "1-a3ab3c637d97a251b4cac3915c74e834",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f69008566",
+    "name": "The Complete Illustrated Lewis Carroll",
+    "year": 1984
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902bd1e",
+    "_rev": "1-9320384caf89256f330e28a4305926ed",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "The Classic Charles Dickens Collection",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902be44",
+    "_rev": "1-41e3b173fe51b1edca78090273efc8d4",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "David Copperfield",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902cdce",
+    "_rev": "1-ab7095c98181447a6f2d2f5e8f91d8be",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "Charles Dickens: Four Novels",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902d63c",
+    "_rev": "1-d5d027baf45aca9a598e2dd5e96feaa0",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "Hard Times",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902de16",
+    "_rev": "1-c115a8dc4c3411a1f95b02ad8e810b89",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "The Turning Point: 1851--A Year That Changed Charles Dickens and the World",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902de9c",
+    "_rev": "1-c7914d00d83a2f57fd3d116b19d50d99",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "Great Expectations",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902e720",
+    "_rev": "1-be0f7dd8f505682dd6b1f76544fd8ce5",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "The Charles Dickens Collection: Deluxe 5-Volume,",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902eb9c",
+    "_rev": "1-4f983a4c0353929ff51afb3e0598db18",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "A Tale of Two Cities: (150th Anniversary Edition) (Signet Classics)",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6902f5cb",
+    "_rev": "1-c980ece5106c827d6a5357e843f624cc",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "Great Expectations (Wordsworth Classics)",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903017b",
+    "_rev": "1-6d95749784aa408c34120636ed7bb0d6",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900a8a3",
+    "name": "Major Works of Charles Dickens",
+    "year": 1935
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69031295",
+    "_rev": "1-45f8f7f8e9c22874d1d33fafccacd50a",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "lolita",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69031b3a",
+    "_rev": "1-a8c9dd31ae3c2df0581d29d5e9aaed73",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Pale Fire",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69031c05",
+    "_rev": "1-14d556389ccfa82bb2af74252a14a98c",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Speak, Memory: An Autobiography Revisited",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69032229",
+    "_rev": "1-154005968df337259984894da68b06c5",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Letters to Véra (Vintage International)",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690323ed",
+    "_rev": "1-e06cb75eb5ac412f413d0ee2dbf33b12",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "The Luzhin Defense",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69032f6d",
+    "_rev": "1-1edb0b6db9521926c65898d901e20aaa",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Lectures on Literature",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69033a7a",
+    "_rev": "1-2cd122fbca9a7047292861f44490c156",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Pnin",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69033f53",
+    "_rev": "1-eb3bb036251fc617b33ce9e0f3411eec",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "The Stories of Vladimir Nabokov (Vintage International)",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69033f55",
+    "_rev": "1-b51d49ac9995299f1b94202026155624",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Eugene Onegin: A Novel in Verse, Vol. 2",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69034709",
+    "_rev": "1-9dbb9e4cd32872e02a23820b2782c6a1",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Laughter in the Dark",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903544e",
+    "_rev": "1-3f1d208f1fc30422af53ae38e7db168a",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900aa67",
+    "name": "Invitation to a Beheading",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69035833",
+    "_rev": "1-9094a3521514819621e521003d697272",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "El amor en los tiempos del cólera (Spanish Edition)",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69036317",
+    "_rev": "1-3d8e9786094689b701ce8a55883b5c3c",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Cien años de soledad",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69036917",
+    "_rev": "1-e58c94c3f60a6efbcaf9e3a785700995",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Leaf Storm: and Other Stories",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690369bc",
+    "_rev": "1-839c42f3be58e6fcc0e5eefa0f2effe8",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Todos los cuentos",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69036ba9",
+    "_rev": "1-95bc252615ac2fc3d293bd28091b1742",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Cien años de soledad (50 Aniversario)",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903791a",
+    "_rev": "1-5e035232445334a4acaa476fda344246",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Crónica de una muerte anunciada",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69038339",
+    "_rev": "1-bd05eb17a85c65e3e531bddc9697b506",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "No One Writes to the Colonel",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69038b75",
+    "_rev": "1-f02b3db24eba1ca157770bbc65cc2f3b",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Love in the Time of Cholera",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69039090",
+    "_rev": "1-d2a547d6203b6a920a0569bd327972d1",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Collected Stories",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690396a5",
+    "_rev": "1-f88c747735adfb33a93990c84f8cb2dd",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "El otoño del patriarca",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69039ae4",
+    "_rev": "1-38633e5c192fbbbc1fa205593efc121f",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "Chronicle of a Death Foretold",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69039b3e",
+    "_rev": "1-a8b63fe917ebe5c96ea062531e0c3bf9",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900cbc5",
+    "name": "One Hundred Years of Solitude",
+    "year": 1926
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903a746",
+    "_rev": "1-faf8992a884f9805a722b46c4531d78f",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Beautiful and Damned",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903b36d",
+    "_rev": "1-8a6fba433a60136757703e0872bfd245",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Tender Is the Night",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903b94c",
+    "_rev": "1-87b0f04e451021f858aa54ed970de2e7",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Tender Is The Night",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903bd22",
+    "_rev": "1-807a2b8ceb8ec9d7ad8440f26498169d",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "This Side of Paradise by F. Scott Fitzgerald",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903c31b",
+    "_rev": "1-b7200dae6dd834cb4f289b6fc0f3618d",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Great Gatsby",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903cfc5",
+    "_rev": "1-8f7d2d83e753cfa785b6f75d0fa2e77b",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Tales of the Jazz Age",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903d3ee",
+    "_rev": "1-e50a6d595522c5e36cd2d680d12aa309",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Paradise Lost: A Life of F. Scott Fitzgerald",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903d9cc",
+    "_rev": "1-82c83e26932102d84edb73fbe7f70d7f",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Complete Works",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903e659",
+    "_rev": "1-f41a649540885febad963ec9e01ca11c",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Short Stories of F. Scott Fitzgerald: A New Collection",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903f349",
+    "_rev": "1-1044d6fb3b54922bbda7250f676b133b",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Tender is the Night and The Last Tycoon",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6903fb18",
+    "_rev": "1-8a6fba433a60136757703e0872bfd245",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Tender Is the Night",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6904057f",
+    "_rev": "1-8a6fba433a60136757703e0872bfd245",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Tender Is the Night",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690416f3",
+    "_rev": "1-57f962512cb89ff6325d83e019073dad",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Lord of the Rings Boxed Set",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69041f03",
+    "_rev": "1-932502dabd734c6586b970bd74988ae0",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Histories of Middle Earth, Volumes 1-5",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69042a9b",
+    "_rev": "1-c5e2e5a0503d8d3d57e674ef3240e3b5",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Letters From Father Christmas",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69042ffa",
+    "_rev": "1-d61ee55decd5bd6fd0acc51b701bf55f",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Fall Of Gondolin",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69043f7b",
+    "_rev": "1-d3092a30c2ac7722250bf237136f96ad",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Hobbit",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69044339",
+    "_rev": "1-43924946938f49b6974c626a8ca81943",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "J.R.R. Tolkien 4-Book Boxed Set",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69044499",
+    "_rev": "1-4b86f546553e39eb83a1e8d123c082ce",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The J. R. R. Tolkien Companion and Guide: Boxed Set",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690445c4",
+    "_rev": "1-7cceceb5db346ddee7fb9f6e2eb3e28c",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "J.R.R. Tolkien: A Biography",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690450bd",
+    "_rev": "1-def3b9225d6c383bfaf5837320fb4e52",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Nature Of Middle-Earth",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f690459fc",
+    "_rev": "1-eb1a072dfca5f5b15d986e63b92a8b9a",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Silmarillion",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69045da6",
+    "_rev": "1-8190e95749bb97db8737191632db05cc",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Great Tales Of Middle-Earth",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f6904664e",
+    "_rev": "1-86ccb02adda38d6713e9df4ee51671e2",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "Pictures by J.R.R. Tolkien",
+    "year": 1829
+  },
+  {
+    "_id": "c342d78d41088b95a0fbbd4f69047345",
+    "_rev": "1-ec5ede94b42c438876c153b78e2352c2",
+    "type": "book",
+    "author": "c342d78d41088b95a0fbbd4f6900e1b0",
+    "name": "The Tolkien Treasury",
+    "year": 1829
+  }
+]

@@ -1,9 +1,11 @@
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+require('dotenv').config();
 import { Module } from '@nestjs/common';
 import { GraphQLModule } from '@nestjs/graphql';
 import { CouchDbModule } from '@blendedbot/nest-couchdb';
-import { MercuriusDriver, MercuriusDriverConfig } from '@nestjs/mercurius';
-import { ApolloDriver, ApolloDriverConfig } from '@nestjs/apollo';
+import { ApolloDriver } from '@nestjs/apollo';
 import { join } from 'path';
+
 import { AuthorsModule } from './authors/authors.module';
 import { BooksModule } from "./books/books.module";
 
@@ -11,9 +13,9 @@ import { BooksModule } from "./books/books.module";
 @Module({
   imports: [
     CouchDbModule.forRoot({
-      url: 'http://localhost:5984',
-      username: 'admin',
-      userpass: 'olupor28',
+      url: process.env.DB_URL,
+      username: process.env.DB_USERNAME,
+      userpass: process.env.DB_PASSWORD,
       requestDefaults: { jar: true },
     }),
     GraphQLModule.forRoot({
