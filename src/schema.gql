@@ -1,0 +1,25 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Author {
+  _id: String!
+  birthYear: Int!
+  country: String!
+  getBooks: [Book!]!
+  name: String!
+}
+
+type Book {
+  _id: String!
+  author: Author!
+  name: String!
+  year: Int!
+}
+
+type Query {
+  getAllAuthors(limit: Int!, skip: Int!): [Author!]!
+  getAllBooks(limit: Int!, skip: Int!): [Book!]!
+  getAuthor(_id: String!): Author!
+  getBook(_id: String!): Book!
+}
